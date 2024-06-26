@@ -4,3 +4,6 @@ Arquivo editado diretamente no git
 editado
 
 editado pelo vs code
+
+
+editado novamente pelo git
